@@ -96,7 +96,7 @@ Java很傻，但是IDE很聪明。把人肉编译器的工作交给IDE吧，体�
 曾经折腾Eclipse的Editor暗色背景插件（只有Editor区域，其他区域不行），发现与各种Diff工具不匹配（Diff工具没有暗色背景，直接用深色作为高亮，瞎了），各种不爽，最后又换回来。
 一下午过去了，你说啥，生产力？几乎为零。
 
-码农界有很多圣战，Linux or Windows、Vim or Emacs、Eclipse or IDEA。
+码农界有很多圣战，Linux vs Windows、Vim vs Emacs、Eclipse vs IDEA。
 码农一般都是最懒的人，当他知道有另外的工具可以以一种更懒的方式完成自己现在的工作。
 他会心向往之。这些圣战其实不仅仅是口水战、打嘴炮，往往代表了码农们对生产力的思考。
 
