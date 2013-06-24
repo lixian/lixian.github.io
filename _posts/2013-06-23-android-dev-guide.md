@@ -9,7 +9,7 @@ title: Android开发入门
 
 ### IDE
 
-推荐使用Android Studio（Intellij IDEA），而且有了Google的支持，以后只会更好用。
+之前用Eclipse的，可以直接用ADT（Eclipse集成Android环境），不过我推荐使用Android Studio（Intellij IDEA），而且有了Google的支持，以后只会更好用。
 
 ### 手机设备（开发手机）
 
