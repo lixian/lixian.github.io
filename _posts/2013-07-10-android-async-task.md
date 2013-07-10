@@ -1,9 +1,9 @@
 ---
 layout: post
-title: AsyncTask奇怪的参数
+title: (Android) AsyncTask奇怪的参数泛型
 ---
 
-## 可变参数很奇怪
+## 参数泛型很奇怪
 AsyncTask有一个奇怪的接口 `task.execute(Params... params)`
 
 比如说下载一个url, 可以这样写
