@@ -63,9 +63,9 @@ title: 一个idea：个人英语阅读教练
     >   If you are an x86 C/C++ developer, think about the iPhone 4S web development as a C environment that runs at 1/50th the speed of its desktop **counterpart**.  Per the **benchmarks**, you incur a 10x performance **penalty** for being ARM, and another 5x performance penalty for being JavaScript. Now weigh the **pros and cons** of working in a non-JavaScript environment that is merely 10x slower than the desktop.
 
     >>  **counterpart**: n. 副本；配对物；极相似的人或物<br/>
-        **benchmark**: n. 基准；标准检查程序 vt. 用基准问题测试（计算机系统等）<br/>
-        **penalty**: n. 罚款，罚金；处罚<br/>
-        **pros and cons**: 正反两方面；赞成者和反对者
+    >>  **benchmark**: n. 基准；标准检查程序 vt. 用基准问题测试（计算机系统等）<br/>
+    >>  **penalty**: n. 罚款，罚金；处罚<br/>
+    >>  **pros and cons**: 正反两方面；赞成者和反对者
     
 -   文章旁边。比如在PC浏览器里面，左边是阅读内容流，右边是生词释义
 
