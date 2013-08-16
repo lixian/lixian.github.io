@@ -83,3 +83,11 @@ title: 一个idea：个人英语阅读教练
 
 可以和read it later之类的应用（我用Pocket）、云笔记结合起来，做一个浏览器插件也可以，不过移动端更佳。
 
+## 目前进展（补充）
+一个Chrome插件的Demo（质量待完善），可以实现类似于
+[网页翻译2.0](http://fanyi.youdao.com/web2/)
+的功能。但是只要点击释义，即可加记住当前单词，下次不会再出现。
+
+[项目Github地址](https://github.com/lixian/english-coach)
+
+还希望实现一个一键保存个性化翻译版到Pocket的应用，时间关系，暂未完成。
